@@ -1,4 +1,9 @@
-# ckeditor
+# ckeditor5 + document editor + imageBase64
+```
+https://www.npmjs.com/package/@ckeditor/ckeditor5-vue2
+-
+https://www.npmjs.com/package/ckeditor5-build-decoupled-document-base64-imageresize
+```
 
 ## Project setup
 ```
